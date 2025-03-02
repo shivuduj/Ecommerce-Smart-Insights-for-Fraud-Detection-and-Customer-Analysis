@@ -4,11 +4,11 @@
 This project focuses on analyzing e-commerce transaction data to detect fraudulent activities and improve customer retention strategies. We use Snowflake SQL for data processing and Power BI for visualization.
 
 ##Dataset Overview
-We have four key datasets:
-Customers – Customer details and purchase history
-Transactions – Order details with timestamps and status
-Web Logs – User browsing activity
-Fraud Rules – Rules used to identify fraudulent transactions
+We have four key datasets:  
+Customers – Customer details and purchase history  
+Transactions – Order details with timestamps and status  
+Web Logs – User browsing activity  
+Fraud Rules – Rules used to identify fraudulent transactions  
 
 ##Project Workflow
 1️. Data Loading & Processing
