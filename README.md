@@ -1,4 +1,4 @@
-#Ecommerce Smart Insights for Fraud Detection and Customer Retention Analytics
+# Ecommerce Smart Insights for Fraud Detection and Customer Retention Analytics
 
 ##Project Overview
 This project focuses on analyzing e-commerce transaction data to detect fraudulent activities and improve customer retention strategies. We use Snowflake SQL for data processing and Power BI for visualization.
