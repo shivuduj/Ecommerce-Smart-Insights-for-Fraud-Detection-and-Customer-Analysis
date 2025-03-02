@@ -1,16 +1,16 @@
-**Ecommerce Smart Insights for Fraud Detection and Customer Retention Analytics**
+#Ecommerce Smart Insights for Fraud Detection and Customer Retention Analytics
 
-**Project Overview**_
+##Project Overview
 This project focuses on analyzing e-commerce transaction data to detect fraudulent activities and improve customer retention strategies. We use Snowflake SQL for data processing and Power BI for visualization.
 
-**Dataset Overview**
+##Dataset Overview
 We have four key datasets:
 Customers – Customer details and purchase history
 Transactions – Order details with timestamps and status
 Web Logs – User browsing activity
 Fraud Rules – Rules used to identify fraudulent transactions
 
-**Project Workflow**
+##Project Workflow
 1️. Data Loading & Processing
 Load CSV files into Snowflake tables
 Handle missing values & data transformation
@@ -31,12 +31,12 @@ The following reports were created to analyze transaction patterns and customer 
 4️. Pie Chart – Illustrates the sum of total transactions by customer ID, providing a proportional breakdown.
 These insights help in understanding spending patterns, detecting fraud, and improving retention strategies.
 
-**Technology Stack**
+##Technology Stack
   SQL – Snowflake (Data Processing & Analysis)
   Power BI – Data Visualization & Dashboarding
   Cloud Storage – Snowflake Staging for data ingestion
 
- **Key Insights from the Analysis**
+ ##Key Insights from the Analysis
  Fraudulent transactions tend to have high values and originate from specific locations.
  Loyal customers make frequent purchases, while at-risk customers show declining engagement.
  Payment method trends reveal insights into customer behavior and fraud risks.
