@@ -11,19 +11,19 @@ Web Logs – User browsing activity
 Fraud Rules – Rules used to identify fraudulent transactions  
 
 ##Project Workflow
-1️. Data Loading & Processing
-Load CSV files into Snowflake tables
-Handle missing values & data transformation
-Perform data quality checks
-2️. Fraud Detection
-Identify suspicious transactions based on predefined fraud rules
-Analyze fraudulent transactions by amount, location, and frequency
-3️. Customer Retention Analysis
-Segment customers based on purchase history
-Identify high-value customers and churn risks
-Evaluate repeat purchases & engagement trends
-4️. Power BI Visualization
-The following reports were created to analyze transaction patterns and customer spending behavior:
+1️.Data Loading & Processing
+  Load CSV files into Snowflake tables
+  Handle missing values & data transformation
+  Perform data quality checks  
+2️.Fraud Detection
+  Identify suspicious transactions based on predefined fraud rules
+  Analyze fraudulent transactions by amount, location, and frequency  
+3️.Customer Retention Analysis
+  Segment customers based on purchase history
+  Identify high-value customers and churn risks
+  Evaluate repeat purchases & engagement trends  
+4️.Power BI Visualization
+  The following reports were created to analyze transaction patterns and customer spending behavior:
 
 1️. Line Chart – Displays the sum of total revenue by year to observe revenue trends.
 2️. Card Visual – Shows the sum of total transactions to highlight overall transaction volume.
